@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/download/hadoop-0.17.1/hadoop-0.17.1-core.jar" sourcepath="D:/download/hadoop-0.17.1/src"/>
+	<classpathentry kind="lib" path="D:/download/commons-cli-1.1/commons-cli-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/download/lucene-2.3.2/lucene-core-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/download/slf4j-1.5.2/slf4j-log4j12-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/download/slf4j-1.5.2/slf4j-jdk14-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/download/slf4j-1.5.2/jcl-over-slf4j-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/download/slf4j-1.5.2/jul-to-slf4j-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/download/slf4j-1.5.2/log4j-over-slf4j-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/download/slf4j-1.5.2/slf4j-api-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/download/slf4j-1.5.2/slf4j-jcl-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/download/slf4j-1.5.2/slf4j-migrator-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/download/slf4j-1.5.2/slf4j-nop-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/download/slf4j-1.5.2/slf4j-simple-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/download/commons-lang-2.4/commons-lang-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
